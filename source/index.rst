@@ -10,12 +10,12 @@ Welcome to Apex-yuan's documentation!
    :maxdepth: 2
    :caption: Marlin:
    
-   Marlin/configuration
+   Marlin/Configuration
 .. toctree::
    :maxdepth: 2
    :caption: STM32:
    
-   Marlin/configuration
+   Marlin/Marlin
 
 
 Indices and tables
