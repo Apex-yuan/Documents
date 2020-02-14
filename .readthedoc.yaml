@@ -1,0 +1,9 @@
+version: 2
+formats: all
+sphinx:
+    configuration: source/conf.py
+
+python:
+    version: 2.7
+    install:
+        - requirements: source/requirements.txt

@@ -51,9 +51,6 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
-]
-
-extensions = [
     'sphinx_markdown_tables',
 ]
 
